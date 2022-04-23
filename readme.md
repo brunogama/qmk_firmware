@@ -34,3 +34,8 @@ QMK is developed and maintained by Jack Humbert of OLKB with contributions from 
 ## Official Website
 
 [qmk.fm](https://qmk.fm) is the official website of QMK, where you can find links to this page, the documentation, and the keyboards supported by QMK.
+
+
+### [Added by Bruno]
+
+Repo cloned to configure keychron q3 using the settings found on [reddit](https://www.reddit.com/r/Keychron/comments/q44yht/q1_keymap_with_caps_lock_and_fn_layer_indicators/)
